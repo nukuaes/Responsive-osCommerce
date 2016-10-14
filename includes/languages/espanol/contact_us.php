@@ -16,6 +16,7 @@ define('TEXT_SUCCESS', 'Su consulta ha sido enviada al encargado de la tienda.')
 define('EMAIL_SUBJECT', 'Consulta desde ' . STORE_NAME);
 
 define('ENTRY_NAME', 'Nombre y Apellido:');
+define('ENTRY_NAME_TEXT', '');//Sale en el campo del nombre ENTRY_NAME_TEXT y queda feo
 define('ENTRY_EMAIL', 'Dirección E-Mail:');
 define('ENTRY_ENQUIRY', 'Consulta:');
 define('ENTRY_ENQUIRY_TEXT', '');
