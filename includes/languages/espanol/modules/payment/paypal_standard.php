@@ -11,5 +11,5 @@
 */
 
 // language definitions have been moved to:
-// catalog/includes/apps/paypal/languages/english/modules/PS/PS.php
+// catalog/includes/apps/paypal/languages/espanol/modules/PS/PS.php
 ?>
